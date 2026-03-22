@@ -1,6 +1,6 @@
 # Retrieval Mode Comparison Report
 
-**Questions per run:** 25  |  **Seed:** 42  |  **Date:** 2026-03-19
+**Questions per run:** 25  |  **Seed:** 42  |  **Date:** 2026-03-22
 
 ## Modes Compared
 

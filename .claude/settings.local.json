@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(streamlit run:*)",
+      "Bash(taskkill /F /IM streamlit.exe)",
+      "Bash(taskkill /F /FI \"WINDOWTITLE eq streamlit*\")",
+      "Bash(pkill -f \"streamlit run\")",
+      "Bash(python eval_compare_modes.py --archehr-csv-path data/archehr_sample --n 25)"
+    ]
+  }
+}
